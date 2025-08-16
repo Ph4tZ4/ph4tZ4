@@ -32,14 +32,9 @@ I'm a passionate **Information Technology student** at Loei Technical College, e
 ## 📊 **Advanced GitHub Analytics & Metrics**
 
 <div align="center">
-  <!-- Advanced GitHub Stats with custom theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ph4tZ4&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  
   <!-- GitHub Streak with enhanced styling -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ph4tZ4&theme=github_dark&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=ffffff&currStreakLabel=00D4FF&sideNums=00D4FF&sideLabels=00D4FF&dates=ffffff" alt="GitHub Streak"/>
   
-  <!-- Top Languages with custom styling -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph4tZ4&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff&langs_count=8" alt="Top Languages"/>
   
   <!-- GitHub Profile Summary Cards -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ph4tZ4&theme=github_dark" alt="Most Used Language"/>
@@ -48,8 +43,6 @@ I'm a passionate **Information Technology student** at Loei Technical College, e
   <!-- Isometric Commit Calendar (3D Style) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ph4tZ4&theme=github-compact&hide_border=true&bg_color=0d1117&color=00D4FF&line=00D4FF&point=00D4FF&area=true&area_color=00D4FF&area_opacity=0.1" alt="GitHub Activity Graph"/>
   
-  <!-- GitHub Skyline 3D Visualization -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ph4tZ4&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Activity Metrics"/>
 </div>
 
 ---
