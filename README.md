@@ -35,6 +35,9 @@ I'm a passionate **Information Technology student** at Loei Technical College, e
   <!-- GitHub Streak with enhanced styling -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ph4tZ4&theme=github_dark&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=ffffff&currStreakLabel=00D4FF&sideNums=00D4FF&sideLabels=00D4FF&dates=ffffff" alt="GitHub Streak"/>
   
+  
+  <!-- GitHub Profile Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ph4tZ4&theme=github_dark" alt="Most Used Language"/>
 </div>
 
 ---
