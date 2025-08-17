@@ -40,9 +40,6 @@ I'm a passionate **Information Technology student** at Loei Technical College, e
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ph4tZ4&theme=github_dark" alt="Most Used Language"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ph4tZ4&theme=github_dark" alt="GitHub Stats"/>
   
-  <!-- Isometric Commit Calendar (3D Style) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ph4tZ4&theme=github-compact&hide_border=true&bg_color=0d1117&color=00D4FF&line=00D4FF&point=00D4FF&area=true&area_color=00D4FF&area_opacity=0.1" alt="GitHub Activity Graph"/>
-  
 </div>
 
 ---
