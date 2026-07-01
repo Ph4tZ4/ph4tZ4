@@ -1,9 +1,14 @@
-# <div align="center">🚀 **Kittiphat Suwannasri (Phat)** 🚀</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a4d68,100:00D4FF&height=220&section=header&text=Kittiphat%20Suwannasri&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Phat%20%7C%20Full%20Stack%20Developer%20%26%20Creative%20Technologist&descSize=18&descAlignY=58" alt="header"/>
+</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hello" width="100"/>
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Creative+Technologist;AI+Enthusiast;3D+%26+Game+Developer)](https://git.io/typing-svg)
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hello" width="90"/>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&height=70&lines=Full+Stack+Developer;Creative+Technologist;AI+Enthusiast;3D+%26+Game+Developer)](https://git.io/typing-svg)
+
+  <img src="https://komarev.com/ghpvc/?username=ph4tZ4&style=flat-square&color=00D4FF&label=Profile+Views" alt="views"/>
+  <img src="https://img.shields.io/github/followers/ph4tZ4?style=flat-square&color=00D4FF&label=Followers&logo=github" alt="followers"/>
 </div>
 
 ---
@@ -122,6 +127,41 @@ I'm a passionate **Information Technology student** at Loei Technical College, e
 
 ---
 
+## 📜 **Certifications**
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white&labelColor=1a1a1a"/>
+      <br/><br/>
+      <b>MikroTik Network Certification</b>
+      <br/>
+      <sub>Routing • Firewall • Network Configuration</sub>
+      <br/><br/>
+      <a href="https://github.com/Ph4tZ4/ph4tZ4/blob/main/MikroTik.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Certificate-00D4FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=1a1a1a"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Photography-E4405F?style=for-the-badge&logo=adobelightroom&logoColor=white&labelColor=1a1a1a"/>
+      <br/><br/>
+      <b>Stunning Photos Certificate</b>
+      <br/>
+      <sub>Creative Photography • Visual Composition</sub>
+      <br/><br/>
+      <a href="https://github.com/Ph4tZ4/ph4tZ4/blob/main/Stunning_Photos.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Certificate-00D4FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=1a1a1a"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 🌐 **Connect & Collaborate**
 
 <div align="center">
@@ -148,16 +188,12 @@ I'm a passionate **Information Technology student** at Loei Technical College, e
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Available%20for%20Collaboration-00D4FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a1a1a"/>
-  
-  <img src="https://img.shields.io/github/followers/ph4tZ4?logo=github&style=for-the-badge&color=00D4FF&labelColor=1a1a1a" alt="GitHub Followers"/>
-  
-  <img src="https://komarev.com/ghpvc/?username=ph4tZ4&style=for-the-badge&color=00D4FF&labelColor=1a1a1a" alt="Profile Views"/>
+
+  ### 🌟 **Ready to create the future of technology? Let's connect!** 🌟
+
+  *From web apps to 3D worlds, from AI solutions to creative experiences - let's turn ideas into reality!* 🎨✨
 </div>
 
 <div align="center">
-  
-  ### 🌟 **Ready to create the future of technology? Let's connect!** 🌟
-  
-  *From web apps to 3D worlds, from AI solutions to creative experiences - let's turn ideas into reality!* 🎨✨
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0a4d68,100:0d1117&height=120&section=footer" alt="footer"/>
 </div>
