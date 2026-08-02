@@ -1,122 +1,127 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a4d68,100:00D4FF&height=220&section=header&text=Kittiphat%20Suwannasri&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Phat%20%7C%20Full%20Stack%20Developer%20%26%20Creative%20Technologist&descSize=18&descAlignY=58" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a4d68,100:00D4FF&height=260&section=header&text=Kittiphat%20Suwannasri&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Phat%20%7C%20Full%20Stack%20Developer%20%26%20Creative%20Technologist&descSize=18&descAlignY=55" alt="header" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hello" width="90"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=60&lines=Full+Stack+Developer+%F0%9F%92%BB;Creative+Technologist+%F0%9F%8E%A8;AI+Enthusiast+%F0%9F%A4%96;3D+%26+Game+Developer+%F0%9F%8E%AE" alt="Typing SVG"/></a>
+</div>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&height=70&lines=Full+Stack+Developer;Creative+Technologist;AI+Enthusiast;3D+%26+Game+Developer)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://www.github.com/ph4tZ4"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+  <a href="https://x.com/Ph4tZ4"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="x"/></a>
+  <a href="https://www.instagram.com/k._.kttp.q/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="instagram"/></a>
+  <a href="https://www.facebook.com/new.kittiphat.308327"><img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="facebook"/></a>
+  <a href="mailto:kittiphat240449@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836" alt="gmail"/></a>
+</div>
 
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=ph4tZ4&style=flat-square&color=00D4FF&label=Profile+Views" alt="views"/>
   <img src="https://img.shields.io/github/followers/ph4tZ4?style=flat-square&color=00D4FF&label=Followers&logo=github" alt="followers"/>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Collaboration-00D4FF?style=flat-square&labelColor=0d1117" alt="status"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🎯 **About Me**
+## 👋 **About Me**
+
+<table>
+  <tr>
+    <td width="55%" valign="top">
+
+I'm a passionate **Information Technology student** at **Loei Technical College**, exploring the exciting intersection of **technology and creativity**. From web development to 3D animation, I'm constantly pushing boundaries and learning new skills!
+
+- 🎓 **Studying:** High Vocational Certificate in IT
+- 🌍 **Location:** Loei, Thailand
+- 💼 **Collaboration:** ICONNEXT THAILAND
+- 📫 **Email:** kittiphat240449@gmail.com
+- ⚡ **Focus:** Web Dev • AI • 3D Animation • Game Dev
+
+</td>
+<td width="45%" valign="top">
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ph4tZ4&theme=github_dark" alt="Profile Details" width="100%"/>
+</div>
+</td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ph4tZ4&theme=github_dark" alt="Profile Details"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ph4tZ4&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" alt="stats"/>
+  <img height="180" src="https://streak-stats.demolab.com?user=ph4tZ4&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=ffffff&currStreakLabel=00D4FF&sideNums=00D4FF&sideLabels=00D4FF&dates=ffffff" alt="streak"/>
 </div>
-
-I'm a passionate **Information Technology student** at Loei Technical College, exploring the exciting intersection of **technology and creativity**. From web development to 3D animation, I'm constantly pushing boundaries and learning new skills!
-
-### 🌍 **Location & Contact**
-<div align="center">
-  <img src="https://img.shields.io/badge/Location-Loei%2C%20Thailand-00D4FF?style=for-the-badge&logo=location&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Email-kittiphat240449%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</div>
-
-### 🤝 **Collaboration**
-<div align="center">
-  <img src="https://img.shields.io/badge/ICONNEXT%20THAILAND-Collaboration%20Wanted-00D4FF?style=for-the-badge&logo=handshake&logoColor=white"/>
-</div>
-
----
-
-## 📊 **Advanced GitHub Analytics & Metrics**
 
 <div align="center">
-  <!-- GitHub Streak with enhanced styling -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ph4tZ4&theme=github_dark&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=ffffff&currStreakLabel=00D4FF&sideNums=00D4FF&sideLabels=00D4FF&dates=ffffff" alt="GitHub Streak"/>
-  
-  
-  <!-- GitHub Profile Summary Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ph4tZ4&theme=github_dark" alt="Most Used Language"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph4tZ4&layout=donut&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff" alt="top langs"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ph4tZ4&theme=github_dark&utcOffset=7" alt="productive time"/>
 </div>
 
----
-
-## 🛠️ **Skills & Technologies**
-
-### 💻 **Programming Languages**
+### 🏆 **Trophies**
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=1a1a1a"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ph4tZ4&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1" alt="trophies"/>
 </div>
 
-### 🌐 **Web Development Stack**
+### 📈 **Activity Graph**
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=1a1a1a"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ph4tZ4&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true" alt="activity graph" width="100%"/>
 </div>
 
-### ⚡ **Backend & DevOps**
+### 🐍 **Contribution Snake**
 <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ph4tZ4/ph4tZ4/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ph4tZ4/ph4tZ4/output/github-snake.svg"/>
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Ph4tZ4/ph4tZ4/output/github-snake-dark.svg" width="100%"/>
+  </picture>
 </div>
 
-### 🎨 **Creative & Design Tools**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🛠️ **Tech Stack & Tools**
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&labelColor=1a1a1a"/>
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,py,php,c,cpp,swift&theme=dark" alt="languages"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,vue,nextjs,nuxtjs,tailwind,bootstrap&theme=dark" alt="frontend"/>
+
+**Backend, Database & DevOps**
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,mongodb,mysql,docker&theme=dark" alt="backend"/>
+
+**Creative & Design**
+
+<img src="https://skillicons.dev/icons?i=ps,figma,blender,unity&theme=dark" alt="creative"/>
+
+**Tools & Hardware**
+
+<img src="https://skillicons.dev/icons?i=git,vscode,xcode,vite,apple,arduino,raspberrypi&theme=dark" alt="tools"/>
+
 </div>
 
-### 🔧 **Development Tools**
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=1a1a1a"/>
-</div>
-
-### 🛠️ **Hardware & IoT**
-<div align="center">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white&labelColor=1a1a1a"/>
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🎯 **Learning Journey & Focus Areas**
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Frontend-Development-00D4FF?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Backend-Development-00D4FF?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/AI-%26%20Machine%20Learning-00D4FF?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/3D-Animation-00D4FF?style=for-the-badge&logo=blender&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Game-Development-00D4FF?style=for-the-badge&logo=unity&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Networking-Advanced-00D4FF?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1a1a1a"/>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">🌐<br/><b>Frontend Dev</b><br/><sub>React • Next.js • Tailwind</sub></td>
+    <td align="center" width="33%">⚙️<br/><b>Backend Dev</b><br/><sub>Node.js • FastAPI • MySQL</sub></td>
+    <td align="center" width="33%">🤖<br/><b>AI & ML</b><br/><sub>Python • TensorFlow</sub></td>
+  </tr>
+  <tr>
+    <td align="center">🎨<br/><b>3D Animation</b><br/><sub>Blender • Motion Design</sub></td>
+    <td align="center">🎮<br/><b>Game Dev</b><br/><sub>Unity • C#</sub></td>
+    <td align="center">📡<br/><b>Networking</b><br/><sub>Cisco • MikroTik</sub></td>
+  </tr>
+</table>
 
 ### 📚 **Current Studies**
 - **🎓 Institution:** Loei Technical College
@@ -125,7 +130,7 @@ I'm a passionate **Information Technology student** at Loei Technical College, e
 - **🎨 Creative Skills:** 2D/3D Animation, Game Development, Graphic Design
 - **🚀 Emerging Tech:** 3D Printing, Content Creation, IoT Development
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 📜 **Certifications**
 
@@ -160,40 +165,15 @@ I'm a passionate **Information Technology student** at Loei Technical College, e
 
 </div>
 
----
-
-## 🌐 **Connect & Collaborate**
-
-<div align="center">
-  <a href="https://www.github.com/ph4tZ4" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a"/>
-  </a>
-  <a href="https://x.com/Ph4tZ4" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a"/>
-  </a>
-  <a href="https://www.instagram.com/k._.kttp.q/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a1a"/>
-  </a>
-  <a href="https://www.facebook.com/new.kittiphat.308327" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1a1a"/>
-  </a>
-  <a href="mailto:kittiphat240449@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a"/>
-  </a>
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🚀 **Let's Build Something Amazing Together!**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Collaboration-00D4FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a1a1a"/>
 
   ### 🌟 **Ready to create the future of technology? Let's connect!** 🌟
 
-  *From web apps to 3D worlds, from AI solutions to creative experiences - let's turn ideas into reality!* 🎨✨
-</div>
+  *From web apps to 3D worlds, from AI solutions to creative experiences — let's turn ideas into reality!* 🎨✨
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0a4d68,100:0d1117&height=120&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0a4d68,100:0d1117&height=130&section=footer" alt="footer" width="100%"/>
 </div>
