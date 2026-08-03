@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a4d68,100:00D4FF&height=260&section=header&text=Kittiphat%20Suwannasri&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Phat%20%7C%20Full%20Stack%20Developer%20%26%20Creative%20Technologist&descSize=18&descAlignY=55" alt="header" width="100%"/>
-</div>
+<h1 align="center">Kittiphat Suwannasri</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=60&lines=Full+Stack+Developer+%F0%9F%92%BB;Creative+Technologist+%F0%9F%8E%A8;AI+Enthusiast+%F0%9F%A4%96;3D+%26+Game+Developer+%F0%9F%8E%AE" alt="Typing SVG"/></a>
@@ -50,18 +48,13 @@ I'm a passionate **Information Technology student** at **Loei Technical College*
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ph4tZ4&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" alt="stats"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ph4tZ4&theme=github_dark" alt="stats"/>
   <img height="180" src="https://streak-stats.demolab.com?user=ph4tZ4&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=ffffff&currStreakLabel=00D4FF&sideNums=00D4FF&sideLabels=00D4FF&dates=ffffff" alt="streak"/>
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph4tZ4&layout=donut&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff" alt="top langs"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ph4tZ4&theme=github_dark" alt="repos per language"/>
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ph4tZ4&theme=github_dark&utcOffset=7" alt="productive time"/>
-</div>
-
-### 🏆 **Trophies**
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ph4tZ4&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1" alt="trophies"/>
 </div>
 
 ### 📈 **Activity Graph**
